@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "simple-git": "3.7.1",
-    "slugify": "1.6.5",
+    "slugify": "1.6.5"
   }
 }
